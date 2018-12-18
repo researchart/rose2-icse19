@@ -1,6 +1,6 @@
 # Call for Presentations
 
-##  The ROSE Festival, ICSE 2019
+##  The Second ROSE Festival, ICSE 2019
 ##  Recognizing and Rewarding Open Science in Software Engineering  
 
 Due Feb 15, 2019.  
