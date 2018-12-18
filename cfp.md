@@ -37,7 +37,7 @@ Note that:
 
 ## HOW TO SUBMIT:
 
-Submit your proposal to [Easychair](https://easychair.org/conferences/?conf=roseicse19).
+Submit your proposal to [Easychair](https://easychair.org/my/conference.cgi?welcome=1;conf=rose2icse19).
 
 Submissions to ROSE are an abstract  (1page pdf, max) for a proposed lightning talk (2-5 mins). Each talk must be about two things:
 
