@@ -13,13 +13,13 @@ Co-located with  [ICSE 2019](https://conf.researchr.org/home/icse-2019).
      - Tim Menzies, NC State University, USA
      - Thomas Zimmermann, Microsoft Research, USA
 - Program Committee:
-     - Leandro	Minku, University of Leicester, UK
-     - Neil	Ernst, 	University of Victoria, Canda 
-     - Daniel	Méndez, Technical U.Munich, Germany 
-     - Sira	Vegas, Universidad Politécnica de Madrid, Spain
-     - Chakkrit	Tantithamthavorn, U.Adelaide, Australia
-     - Martin	Monperrus, Univesity of Lille & INRIA, Sweden
-
+     - Neil	Ernst,	University of Victoria
+     - Thomas	Zimmermann,	Microsoft
+     - Chakkrit	Tantithamthavorn, Monash University
+     - Robert	Feldt,	Blekinge Institute of Technology
+     - Martin	Monperrus,	University of Lille & INRIA
+     - Daniel	Graziotin,	University of Stuttgart
+     - Sira	Vegas,	Universidad Politécnica de Madrid
  
 ## Aim
 
