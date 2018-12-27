@@ -2,7 +2,7 @@ _(IMPORTANT NOTE: This is a discussion document, and NOT a released CFP)_
 
 # CFP, Patterns and Anti-Patterns of Replication and Reproduction in Software Engineering
 
-## Special ISSUE Empirical Software Engineering Journal.
+## Special Issue: Empirical Software Engineering Journal.
 
 http://www.springer.com/computer/swe/journal/10664
 
