@@ -38,7 +38,7 @@ those that are  organized and available on some publically accessible archive).
     - Further, artifacts are _reproduced_ when the main results gleamed from those artifacts have been
 independently obtained in a subsequent study
 by a person or team other than the authors, without the use of author-supplied artifacts
-6. _Beyond the Package_ Many aspects of empirical SE are not amenable to reproduction packages; e.g qualitative studies. What are the lessons there? Are reproduction packages trite (not looking at deeper issues)?  Can  qualitative studies be made more reproducible? Or is that a fundamentally wrong question? Are qualitiatve studies an inherently different kind of empirical software engineering (so do we need a better, and deeper,  understanding of "empirical" means SE)?
+6. _Beyond the Package_: Many aspects of empirical SE are not amenable to reproduction packages; e.g qualitative studies. What are the lessons there? Are reproduction packages trite (not looking at deeper issues)?  Can  qualitative studies be made more reproducible? Or is that a fundamentally wrong question? Are qualitative studies an inherently different kind of empirical software engineering (so do we need a better, and deeper,  understanding of what "empirical" means for SE)?
 
 IMPORTANT NOTES:
 
