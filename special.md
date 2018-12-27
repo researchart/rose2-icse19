@@ -6,7 +6,7 @@ _(IMPORTANT NOTE: This is a discussion document, and NOT a released CFP)_
 
 http://www.springer.com/computer/swe/journal/10664
 
-Editors of the Special Issue (To be confirmed)
+Editors of the Special Issue  
 
 - Tim Menzies (NC State, USA)
 - Daniel Mendez (Technical University of Munich, Germany)
