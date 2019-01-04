@@ -3,7 +3,7 @@
 ##  The Second ROSE Festival, ICSE 2019
 ##  Recognizing and Rewarding Open Science in Software Engineering  
 
-Due Feb 15, 2019.  
+Due Mar 1, 2019.  
 Co-located with  [ICSE 2019](https://conf.researchr.org/home/icse-2019).
 
 <img align=right width=400 src="etc/img/rose.png">  
