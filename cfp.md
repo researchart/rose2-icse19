@@ -79,4 +79,4 @@ ROSE adopts the    ACM artifact badging conventions. ROSE seeks replicated and r
 
 ![](etc/img/acm.png)
 
-**IMPORTANT POINT:** Replication is more than just "they downloaded by scripts and ran exaxtly those". There must be something changed in the replication work (but perhaps that change is not very large).
+**IMPORTANT POINT:** Replication is more than just "they downloaded my scripts and ran exactly those". There must be something changed in the replication work (but perhaps that change is not very large).
