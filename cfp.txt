@@ -3,7 +3,7 @@ Call for Presentations
 The Second ROSE Festival, ICSE 2019
 Recognizing and Rewarding Open Science in Software Engineering  
 
-Due Mar 1, 2019.  
+Due Mar 8, 2019.  
 Co-located with  ICSE 2019
 
 https://github.com/researchart/rose2-icse19/blob/master/cfp.md
