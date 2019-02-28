@@ -3,7 +3,7 @@ ROSE Festival #2, [ICSE 2019](https://conf.researchr.org/home/icse-2019).  Recog
 
 ![](etc/img/rose.png)
 
-- [Call for presentations](cfp.md) Due Feb 15, 2019.
+- [Call for presentations](cfp.md) Due March 8, 2019.
 
 _____
 
@@ -44,7 +44,7 @@ Note that
 
 ## CALL FOR PRESENTATIONS
 
-- [Call for presentations](cfp.md) Due Feb 15, 2019 
+- [Call for presentations](cfp.md) Due March 8, 2019 
 
 ## BUT WHAT IS A "FISH-BOWL PANEL"?
 
